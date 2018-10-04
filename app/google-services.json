@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "667191107708",
+    "firebase_url": "https://flashchatandroid12.firebaseio.com",
+    "project_id": "flashchatandroid12",
+    "storage_bucket": "flashchatandroid12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667191107708:android:79f8c9a2154eb7c3",
+        "android_client_info": {
+          "package_name": "com.nagendra.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667191107708-3fkkmhpvcg6f3vsh19mrrv5pti5u84em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCzEtrceMbu0P_zM0iBeIY5Uq4D6qWV64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
